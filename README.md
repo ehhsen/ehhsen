@@ -34,7 +34,6 @@ I'm a passionate learner exploring the world of technology with a keen interest 
 
 - 📧 Email: `nisar.ahsanali@gmail.com`
 - 💼 LinkedIn: www\.linkedin.com/in/ehhsen
-- 🌐 Portfolio: [Coming Soon]
 
 ---
 
