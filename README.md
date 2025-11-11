@@ -1,6 +1,7 @@
 # 💫 About Me:
 This is ehhsen — a CS sophomore at QAU Islamabad. Currently in the grind learning data structures, machine learning, and web dev.
 
+! [Code](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1aHZiMnI2dm41bzFnYWJvaHIyM2o4aGd6bGdibTZlaTgxbzBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ehhsxm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ehhsen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisar.ahsanali@gmail.com) 
