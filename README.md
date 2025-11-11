@@ -1,6 +1,7 @@
 
 ![Code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l4Z3I4dmRlYW1xemJvdzZpNGhqM2RnbnFuOXZxYXdzMWt3dGExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)
 ![code](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTI5MmVxcHNlcTJ3dmYwemxseW85dnBqZGFyZHZkYzlwMDFyc3o0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lBm4rgtyIPJmywXzLW/giphy.gif)
+![Code](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNrZTF6OXQ4Z3FocjYzNnI5dm50NDE0eGZhdHQ5eDh3ejRhcHNmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HCevnBRJE6Z6n2VqlG/giphy.gif)
 # 💫 About Me:
 This is ehhsen — a CS sophomore at QAU Islamabad. Currently in the grind learning data structures, machine learning, and web dev.
 
