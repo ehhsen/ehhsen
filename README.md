@@ -1,9 +1,5 @@
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+P
-rofile)
-![Code](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-![ehhsen's GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=ehhsen&show_icons=true&theme=radical)
+![Code](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM1aHZiMnI2dm41bzFnYWJvaHIyM2o4aGd6bGdibTZlaTgxbzBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pqMSyHmekA1Qe7Utp7/giphy.gif)
 
 # 💫 About Me:
 This is ehhsen — a CS sophomore at QAU Islamabad. Currently in the grind learning data structures, machine learning, and web dev.
