@@ -1,7 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehhsen&label=Profile%20views&color=0e75b6&style=flat" alt="ehhsen" /> </p>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l4Z3I4dmRlYW1xemJvdzZpNGhqM2RnbnFuOXZxYXdzMWt3dGExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="demo" align="right" width="300" /> <br>
-
-
 #  <h1>This is ehhsen:</h1>
  A CS sophomore at QAU Islamabad. Currently in the grind learning data structures, machine learning, and web dev.
 
@@ -21,5 +18,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=ehhsen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l4Z3I4dmRlYW1xemJvdzZpNGhqM2RnbnFuOXZxYXdzMWt3dGExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" alt="demo" align="right" width="300" /> <br>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
