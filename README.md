@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehhsen&label=Profile%20views&color=0e75b6&style=flat" alt="ehhsen" /> </p>
-https://capsule-render.vercel.app/api?type=rounded&height=310&color=gradient&text=ehhsen&fontColor=ffffff&animation=scaleIn&descAlign=50&descAlignY=67&stroke=000000&strokeWidth=1&fontSize=110&desc=Computer%20Science%20Sophomore%20at%20QAU
+<https://capsule-render.vercel.app/api?type=rounded&height=310&color=gradient&text=ehhsen&fontColor=ffffff&animation=scaleIn&descAlign=50&descAlignY=67&stroke=000000&strokeWidth=1&fontSize=110&desc=Computer%20Science%20Sophomore%20at%20QAU>
 
 
 ## 🌐 Socials:
