@@ -1,6 +1,6 @@
-<img src= "align="left"> <img src="https://komarev.com/ghpvc/?username=ehhsen&label=Profile%20views&color=0e75b6&style=flat" alt="ehhsen" /> </p>
-<https://capsule-render.vercel.app/api?type=rounded&height=310&color=gradient&text=ehhsen&fontColor=ffffff&animation=scaleIn&descAlign=50&descAlignY=67&stroke=000000&strokeWidth=1&fontSize=110&desc=Computer%20Science%20Sophomore%20at%20QAU"/>
+<img src="https://komarev.com/ghpvc/?username=ehhsen&label=Profile%20views&color=0e75b6&style=flat" alt="ehhsen" /> </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=310&color=gradient&text=ehhsen&fontColor=ffffff&animation=scaleIn&descAlign=50&descAlignY=67&stroke=000000&strokeWidth=1&fontSize=110&desc=Computer%20Science%20Sophomore%20at%20QAU"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ehhsxm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ehhsen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisar.ahsanali@gmail.com) 
