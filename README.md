@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=ehhsen&label=visitors&color=ff69b4&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/ehhsen?label=Followers&style=flat-square&color=a855f7" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Hey,%20I'm%20Ahsan%20👋&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=CS%20Sophomore%20%7C%20QAU%20Islamabad%20%7C%20Building%20things%20one%20bug%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Hey,%20I'm%20Ahsan%20👋&fontColor=ffffff&fontSize=55&animation=fadeIn&desc=CS%20Junior%20%7C%20QAU%20Islamabad%20%7C%20Building%20things%20one%20bug%20at%20a%20time&descSize=18&descAlignY=75&descAlign=50"/>
 
 ---
 
