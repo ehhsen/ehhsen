@@ -17,26 +17,14 @@
 
 ```python
 ahsan = {
-    "university"  : "Quaid-i-Azam University, Islamabad 🏛️",
-    "year"        : "Sophomore (2nd Year CS)",
+    "university"  : "Quaid-i-Azam University, Islamabad ",
+    "year"        : "Sophomore (3rd Year CS)",
     "vibe"        : "curious and sleep-deprived",
-    "currently"   : "surviving databases and loving every second of it",
-    "fun_fact"    : "nothing new, you can laugh at your decisions",
     "goal"        : "loading..."
 }
 ```
 
 ---
-
-## 📚 What I'm Studying Right Now
-
-> *These aren't just courses — they're building how I think.*
-
-| 🎓 Course | 📖 Book | 🔥 What I'm into |
-|---|---|---|
-| **Database Systems** | Connolly & Begg — 6th Ed. | ANSI-SPARC, SQL, DBMS internals |
-| **Computer Organization & Architecture** | Stallings | QPI, interrupts, buses, memory |
-| **Software Engineering** | Pressman | SDLC, design patterns, process models |
 
 ---
 
