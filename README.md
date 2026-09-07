@@ -18,7 +18,7 @@
 ```python
 ahsan = {
     "university"  : "Quaid-i-Azam University, Islamabad ",
-    "year"        : "Sophomore (3rd Year CS)",
+    "year"        : " 3rd Year CS",
     "vibe"        : "curious and sleep-deprived",
     "goal"        : "loading..."
 }
